@@ -1,5 +1,5 @@
 # AWS Machine Learning Foundations
-AWS Machine Learning Foundations Course
+AWS Machine Learning Foundations Course.
 | Lesson no. | Title | Summary | Code |
 | :---: | :---: | :---: | :---: |
 | 1.| Welcome to AWS ML Foundations |[Lesson 1]() | - |
